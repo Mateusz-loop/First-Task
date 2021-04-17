@@ -1,4 +1,4 @@
-# First-Task
+First-Task
 #include <stdio.h>
 
 int main()
